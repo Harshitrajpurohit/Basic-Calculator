@@ -12,7 +12,7 @@ User-Friendly Interface: Easy to use with a clean and simple design.
 **JavaScript**: For the calculator's functionality. <br />
 
 ## **Launch the Calculator **
-[Launch](https://harshitrajpurohit.github.io/Basic-Calculator/).
+[Launch]().
 
 ## **Screenshots**
 ![Simple-calculator](https://github.com/Harshitrajpurohit/Basic-Calculator/assets/115687640/16dcc4eb-bde9-4311-bb2a-a5551b7904ec)
