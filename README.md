@@ -7,9 +7,9 @@ Responsive Design: The calculator is designed to work on different screen sizes.
 User-Friendly Interface: Easy to use with a clean and simple design.
 
 ## **Technologies Used**
-**HTML**: For the structure of the calculator.
-**CSS**: For styling the calculator.
-**JavaScript**: For the calculator's functionality.
+**HTML**: For the structure of the calculator. <br />
+**CSS**: For styling the calculator. <br />
+**JavaScript**: For the calculator's functionality. <br />
 
 ## **Launch the Calculator **
 [Launch](https://harshitrajpurohit.github.io/Basic-Calculator/).
