@@ -1,6 +1,6 @@
 let inp = document.querySelector(".inp");
 let nums = document.querySelectorAll(".mainnum")
-let value = "0";
+let value = "";
 let data = document.querySelector(".dataValue")
 let datastore = "";
 data.innerText = "";
